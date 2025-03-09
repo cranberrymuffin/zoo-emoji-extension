@@ -1,7 +1,3 @@
-Here’s a sample README for your GitHub repository:
-
----
-
 # Animal Emoji Replacer
 
 This is a simple JavaScript tool that automatically replaces specified animal names in the text content of a webpage with their corresponding emojis. It uses the `TreeWalker` API to traverse the DOM and applies regular expressions to replace matched words with emojis.
